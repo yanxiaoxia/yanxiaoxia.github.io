@@ -577,17 +577,21 @@ span {display: block;}
     animation: cards5j 2s ease both;
 }
 /*作品展示*/
-#titlee{
 
-}
 .wra{
     width:1000px;
     margin:0 auto;
+    padding-top: 30px;
 }
 .slid{
     width: 100%;
     height: 100%;
 }
+#zuopin {
+    width: 100%;
+    padding:35px 170px;
+}
+
 #zuopin .slid a {
     display: block;
     height: 200px;
