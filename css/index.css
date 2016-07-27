@@ -1,4 +1,4 @@
-body,input,li,ul,p,h1,h2,h3,h4,h5,h6{  margin:0;  padding: 0;  list-style: none;}
+﻿body,input,li,ul,p,h1,h2,h3,h4,h5,h6{  margin:0;  padding: 0;  list-style: none;}
 body{ font-family: "Microsoft Yahei",verdan,Arial;  font-size: 12px;  color: #000;}
 img {border: 0;}
 span {display: block;}
@@ -21,7 +21,7 @@ span {display: block;}
 }
 .section:nth-child(4) {
     background-size: cover;
-    background-image: url("../images/bg4.png");
+    background-image: url("../images/bg6.png");
 }
 
 .section:nth-child(5) {
