@@ -17,7 +17,7 @@ span {display: block;}
 
 .section:nth-child(3) {
     background-size: cover;
-    background-image: url("../images/tu.jpg");
+    background-image: url("../images/tu3.jpg");
 }
 .section:nth-child(4) {
     background-size: cover;
