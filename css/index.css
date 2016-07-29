@@ -21,7 +21,7 @@ span {display: block;}
 }
 .section:nth-child(4) {
     background-size: cover;
-    background-image: url("../images/bg6.png");
+    background-image: url("../images/bg3.png");
 }
 
 .section:nth-child(5) {
